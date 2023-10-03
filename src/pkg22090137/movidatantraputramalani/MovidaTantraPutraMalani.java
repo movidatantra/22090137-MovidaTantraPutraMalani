@@ -9,6 +9,7 @@ package pkg22090137.movidatantraputramalani;
  * @author HP
  */
 public class MovidaTantraPutraMalani {
+    int a;
 
     /**
      * @param args the command line arguments
